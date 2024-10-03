@@ -1,0 +1,7 @@
+/* Background SVG */
+.background{
+    background-image: url('img/planet-saturn-svgrepo-com.svg');
+    background-size: cover;
+    height: 200vh;
+    margin: 0;
+}
